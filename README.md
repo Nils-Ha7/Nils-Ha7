@@ -27,6 +27,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nils-Ha7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gifs/laptop.gif" width="420" alt="Laptop">
 </div>
