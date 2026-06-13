@@ -7,9 +7,7 @@
   <h3>Estudiante de Ingeniería de Sistemas de Información</h3>
   <h3>UPC - 4to Ciclo</h3>
 
-  <br>
-
-  Apasionado por la tecnología.
+  <p>Apasionado por la tecnología.</p>
 
 </div>
 
@@ -30,5 +28,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nils-Ha7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nils-Ha7&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </div>
